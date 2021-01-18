@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javaJunior:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaJunior_jar</output-path>
+    <root id="archive" name="javaJunior.jar">
+      <element id="module-output" name="javaJunior" />
+    </root>
+  </artifact>
+</component>
